@@ -1,0 +1,15 @@
+.metagenomics {
+  background-color: blue;
+  color: white;
+  padding: 3;
+}
+.genomics {
+  background-color: green;
+  color: white;
+  padding: 3;
+}
+.clinical {
+  background-color: orange;
+  color: black;
+  padding: 3;
+}
