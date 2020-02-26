@@ -55,6 +55,7 @@
         "nb_proteins": 114830954,
         "nb_kmers": 35994170529,
         "creation_date": "2020-02",
-        "tags": ["genomics"]
+        "tags": ["genomics"],
+        "reference": "https://www.ncbi.nlm.nih.gov/pubmed/26553804"
     }
 ]
