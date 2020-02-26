@@ -12,6 +12,18 @@
         "reference": "https://www.ncbi.nlm.nih.gov/pubmed/26553804"
     },
     {
+        "name": "UniprotKB (SwissProt/TrEMBL)",
+        "version": "2019_08",
+        "url": "https://bacteriapps.genome.ulaval.ca/dbdwl/uniprotkb_bacteria_2019_08.kaamer.tgz",
+        "favicon": "https://www.uniprot.org/favicon.ico",
+        "size": "233G",
+        "nb_proteins": 114830954,
+        "nb_kmers": 35994170529,
+        "creation_date": "2019-09",
+        "tags": ["genomics"],
+        "reference": "https://www.ncbi.nlm.nih.gov/pubmed/30395287"
+    },
+    {
         "name": "Mgnify Human Gut 90",
         "version": "2019_09",
         "url": "https://bacteriapps.genome.ulaval.ca/dbdwl/uhgp-90_2019-09.kaamer.tgz",
@@ -36,19 +48,8 @@
         "reference": "https://www.ncbi.nlm.nih.gov/pubmed/31427293"
     },
     {
-        "name": "UniprotKB (SwissProt/TrEMBL)",
-        "version": "2019_08",
-        "url": "https://bacteriapps.genome.ulaval.ca/dbdwl/uniprotkb_bacteria_2019_08.kaamer.tgz",
-        "favicon": "https://www.uniprot.org/favicon.ico",
-        "size": "233G",
-        "nb_proteins": 114830954,
-        "nb_kmers": 35994170529,
-        "creation_date": "2019-09",
-        "tags": ["genomics"]
-    },
-    {
-        "name": "RefSeq Pseudomonadaceae family",
-        "version": "98 (no partial)",
+        "name": "Pseudomonadaceae family",
+        "version": "RefSeq-98",
         "url": "https://bacteriapps.genome.ulaval.ca/dbdwl/Pseudomonadaceae.kaamer.tgz",
         "favicon": "https://www.ncbi.nlm.nih.gov/favicon.ico",
         "size": "XXG",
