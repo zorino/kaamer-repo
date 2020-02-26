@@ -1,8 +1,8 @@
 module.exports = {
-    pathPrefix: '/web',
+    pathPrefix: '/kaamer-repo',
     siteMetadata: {
-        title: 'kAAmer web search',
-        description: 'Protein search in a kaamer database.',
+        title: 'kAAmer repository',
+        description: 'kAAmer prebuilt databases repository',
         author: 'The kAAmer authors',
     },
     plugins: [
