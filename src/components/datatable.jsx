@@ -37,8 +37,8 @@ const JSONbuildtime = () => (
                 field: 'name',
                 render: row =>
                     <div>
-                      <img src={row.favicon} width="20" style={{margin: `0 auto`, "vertical-align": `middle`}}/>
-                      <a href={row.url} style={{leftMargin: `0.2em`}}>
+                      <img src={row.favicon} width="20" style={{margin: `0 auto`, "vertical-align": `top`}}/>
+                      <a href={row.url} style={{marginLeft: `0.2em`}}>
                         {row.name} / {row.version}
                       </a>
                     </div>
