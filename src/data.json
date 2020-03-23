@@ -52,7 +52,7 @@
         "version": "RefSeq-98",
         "url": "https://kaamer.genome.ulaval.ca/dwl/Pseudomonadaceae.kaamer.tgz",
         "favicon": "https://www.ncbi.nlm.nih.gov/favicon.ico",
-        "size": "XXG",
+        "size": "17G",
         "nb_proteins": 114830954,
         "nb_kmers": 35994170529,
         "creation_date": "2020-02",
