@@ -2,7 +2,7 @@
     {
         "name": "RefSeq Bacterial Proteins",
         "version": "97 (no partial)",
-        "url": "https://bacteriapps.genome.ulaval.ca/dbdwl/refseq-97_bacteria.kaamer.tgz",
+        "url": "https://kaamer.genome.ulaval.ca/dwl/refseq-97_2019-11-07.kaamer.tgz",
         "favicon": "https://www.ncbi.nlm.nih.gov/favicon.ico",
         "size": "254G",
         "nb_proteins": 123929145,
@@ -14,7 +14,7 @@
     {
         "name": "UniprotKB (SwissProt/TrEMBL)",
         "version": "2019_08",
-        "url": "https://bacteriapps.genome.ulaval.ca/dbdwl/uniprotkb_bacteria_2019_08.kaamer.tgz",
+        "url": "https://kaamer.genome.ulaval.ca/dwl/uniprotkb_bacteria_2019_08.kaamer.tgz",
         "favicon": "https://www.uniprot.org/favicon.ico",
         "size": "233G",
         "nb_proteins": 114830954,
@@ -26,7 +26,7 @@
     {
         "name": "Mgnify Human Gut 90",
         "version": "2019_09",
-        "url": "https://bacteriapps.genome.ulaval.ca/dbdwl/uhgp-90_2019-09.kaamer.tgz",
+        "url": "https://kaamer.genome.ulaval.ca/dwl/uhgp-90_2019-09.kaamer.tgz",
         "favicon": "https://www.uniprot.org/favicon.ico",
         "size": "53G",
         "nb_proteins": 9052553,
@@ -38,7 +38,7 @@
     {
         "name": "NCBI ARG",
         "version": "2020-01-06",
-        "url": "https://bacteriapps.genome.ulaval.ca/dbdwl/ncbi_arg-2020-01-06.kaamer.tgz",
+        "url": "https://kaamer.genome.ulaval.ca/dwl/ncbi_arg-2020-01-06.kaamer.tgz",
         "favicon": "https://www.ncbi.nlm.nih.gov/favicon.ico",
         "size": "25M",
         "nb_proteins": 5937,
@@ -50,9 +50,9 @@
     {
         "name": "Pseudomonadaceae family",
         "version": "RefSeq-98",
-        "url": "https://bacteriapps.genome.ulaval.ca/dbdwl/Pseudomonadaceae.kaamer.tgz",
+        "url": "https://kaamer.genome.ulaval.ca/dwl/Pseudomonadaceae.kaamer.tgz",
         "favicon": "https://www.ncbi.nlm.nih.gov/favicon.ico",
-        "size": "XXG",
+        "size": "17G",
         "nb_proteins": 114830954,
         "nb_kmers": 35994170529,
         "creation_date": "2020-02",
