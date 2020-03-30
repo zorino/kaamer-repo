@@ -3,7 +3,7 @@ require("dotenv").config({
 });
 
 module.exports = {
-    pathPrefix: process.env.SITE_PATH_PREFIX+'/web',
+    pathPrefix: process.env.SITE_PATH_PREFIX+'/kaamer-repo',
     siteMetadata: {
         title: 'kAAmer repository',
         description: 'kAAmer prebuilt databases repository',
