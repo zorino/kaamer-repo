@@ -1,29 +1,5 @@
 [
     {
-        "name": "RefSeq Bacterial Proteins",
-        "version": "97 (no partial)",
-        "url": "https://kaamer.genome.ulaval.ca/dwl/refseq-97_2019-11-07.kaamer.tgz",
-        "favicon": "https://www.ncbi.nlm.nih.gov/favicon.ico",
-        "size": "254G",
-        "nb_proteins": 123929145,
-        "nb_kmers": 42490874996,
-        "creation_date": "2019-11-07",
-        "tags": ["genomics", "metagenomics"],
-        "reference": "https://www.ncbi.nlm.nih.gov/pubmed/26553804"
-    },
-    {
-        "name": "UniprotKB (SwissProt/TrEMBL)",
-        "version": "2019_08",
-        "url": "https://kaamer.genome.ulaval.ca/dwl/uniprotkb_bacteria_2019_08.kaamer.tgz",
-        "favicon": "https://www.uniprot.org/favicon.ico",
-        "size": "233G",
-        "nb_proteins": 114830954,
-        "nb_kmers": 35994170529,
-        "creation_date": "2019-09",
-        "tags": ["genomics"],
-        "reference": "https://www.ncbi.nlm.nih.gov/pubmed/30395287"
-    },
-    {
         "name": "Mgnify Human Gut 90",
         "version": "2019_09",
         "url": "https://kaamer.genome.ulaval.ca/dwl/uhgp-90_2019-09.kaamer.tgz",
@@ -33,6 +9,7 @@
         "nb_kmers": 3219605099,
         "creation_date": "2020-01-01",
         "tags": ["metagenomics"],
+        "demo": "https://kaamer.genome.ulaval.ca//uhgp-90/web/",
         "reference": "https://www.ncbi.nlm.nih.gov/pubmed/31696235"
     },
     {
@@ -45,11 +22,38 @@
         "nb_kmers": 1915845,
         "creation_date": "2020-01-06",
         "tags": ["clinical"],
+        "demo": "https://kaamer.genome.ulaval.ca/ncbi-arg/web/",
         "reference": "https://www.ncbi.nlm.nih.gov/pubmed/31427293"
     },
     {
+        "name": "Resfinder",
+        "version": "2020-01-06",
+        "url": "https://kaamer.genome.ulaval.ca/dwl/resfinder_db_d6f36d3.kaamer.tgz",
+        "favicon": "https://www.ncbi.nlm.nih.gov/favicon.ico",
+        "size": "5.9M",
+        "nb_proteins": 2652,
+        "nb_kmers": 819491,
+        "creation_date": "2020-01-06",
+        "tags": ["clinical"],
+        "demo": "https://kaamer.genome.ulaval.ca/resfinder/web/",
+        "reference": "https://www.ncbi.nlm.nih.gov/pubmed/22782487"
+    },
+    {
+        "name": "IS Finder",
+        "version": "2020-01-06",
+        "url": "https://kaamer.genome.ulaval.ca/dwl/isfinder_2019-09-25.kaamer.tgz",
+        "favicon": "https://www.ncbi.nlm.nih.gov/favicon.ico",
+        "size": "51M",
+        "nb_proteins": "5360",
+        "nb_kmers": "1974495",
+        "creation_date": "2020-01-06",
+        "tags": ["clinical"],
+        "demo": "https://kaamer.genome.ulaval.ca/isfinder/web/",
+        "reference": "https://www.ncbi.nlm.nih.gov/pubmed/16381877"
+    },
+    {
         "name": "Pseudomonadaceae family",
-        "version": "RefSeq-98",
+        "version": "RefSeq",
         "url": "https://kaamer.genome.ulaval.ca/dwl/Pseudomonadaceae.kaamer.tgz",
         "favicon": "https://www.ncbi.nlm.nih.gov/favicon.ico",
         "size": "17G",
@@ -57,6 +61,33 @@
         "nb_kmers": 35994170529,
         "creation_date": "2020-02",
         "tags": ["genomics"],
+        "demo": "",
         "reference": "https://www.ncbi.nlm.nih.gov/pubmed/26553804"
+    },
+    {
+        "name": "RefSeq Bacterial Proteins",
+        "version": "97",
+        "url": "https://kaamer.genome.ulaval.ca/dwl/refseq-97_2019-11-07.kaamer.tgz",
+        "favicon": "https://www.ncbi.nlm.nih.gov/favicon.ico",
+        "size": "254G",
+        "nb_proteins": 123929145,
+        "nb_kmers": 42490874996,
+        "creation_date": "2019-11-07",
+        "tags": ["genomics", "metagenomics"],
+        "demo": "",
+        "reference": "https://www.ncbi.nlm.nih.gov/pubmed/26553804"
+    },
+    {
+        "name": "UniprotKB",
+        "version": "2019_08",
+        "url": "https://kaamer.genome.ulaval.ca/dwl/uniprotkb_bacteria_2019_08.kaamer.tgz",
+        "favicon": "https://www.uniprot.org/favicon.ico",
+        "size": "233G",
+        "nb_proteins": 114830954,
+        "nb_kmers": 35994170529,
+        "creation_date": "2019-09",
+        "tags": ["genomics", "metagenomics"],
+        "demo": "",
+        "reference": "https://www.ncbi.nlm.nih.gov/pubmed/30395287"
     }
 ]

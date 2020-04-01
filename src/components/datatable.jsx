@@ -9,6 +9,7 @@ import MaterialTable, { MTableToolbar } from 'material-table';
 import "./datatable.css";
 import Tooltip from '@material-ui/core/Tooltip';
 import DescriptionIcon from '@material-ui/icons/Description';
+import CloudIcon from '@material-ui/icons/Cloud';
 
 const JSONbuildtime = () => (
 
@@ -33,7 +34,7 @@ const JSONbuildtime = () => (
         }}
         columns={[
             {
-                title: 'Database/Version',
+                title: 'Database/Version download link',
                 field: 'name',
                 render: row =>
                     <div>
@@ -52,6 +53,17 @@ const JSONbuildtime = () => (
                         <DescriptionIcon color="primary"/>
                       </a>
                     </div>
+            },
+            {
+                title: 'Demo',
+                field: 'demo',
+                render: row =>
+                    /* {i === 0 ? `slideshow-item shown` : `slideshow-item`} */
+                <div>
+                  <a href={row.demo} target="_blank">
+                    {row.demo === "" ? <Tooltip title="Sorry demo unavailable"><CloudIcon color="secondary"/></Tooltip> : <CloudIcon color="primary"/> }
+                  </a>
+                </div>
             },
             {
                 title: 'Size',
