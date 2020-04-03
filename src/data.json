@@ -73,7 +73,7 @@
         "nb_proteins": 123929145,
         "nb_kmers": 42490874996,
         "creation_date": "2019-11-07",
-        "tags": ["genomics", "metagenomics"],
+        "tags": ["genomics"],
         "demo": "",
         "reference": "https://www.ncbi.nlm.nih.gov/pubmed/26553804"
     },
@@ -86,7 +86,7 @@
         "nb_proteins": 114830954,
         "nb_kmers": 35994170529,
         "creation_date": "2019-09",
-        "tags": ["genomics", "metagenomics"],
+        "tags": ["genomics"],
         "demo": "",
         "reference": "https://www.ncbi.nlm.nih.gov/pubmed/30395287"
     }
